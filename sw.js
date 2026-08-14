@@ -4,7 +4,7 @@
    - Biblioteca do Supabase (CDN): cache-first (não muda).
    Ao publicar uma nova versão do app, troque o número em VERSION para forçar atualização.
 */
-const VERSION = "v2.0.0";
+const VERSION = "v2.1.0";
 const CACHE = "seplanpi-" + VERSION;
 const SHELL = [
   "./",
