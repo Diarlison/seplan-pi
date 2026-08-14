@@ -1,0 +1,23 @@
+{
+  "name": "Planejamento SEPLAN-PI · Economia Regional",
+  "short_name": "SEPLAN-PI",
+  "description": "Plano de estudos, rotina e diário de bordo para o concurso SEPLAN-PI — Analista Governamental, Especialidade Economia Regional.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16233b",
+  "theme_color": "#16233b",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Diário de Bordo", "short_name": "Diário", "url": "./index.html#diario" },
+    { "name": "Plano de Estudos", "short_name": "Plano", "url": "./index.html#plano" }
+  ]
+}
